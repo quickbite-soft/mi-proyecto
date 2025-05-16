@@ -1,3 +1,6 @@
+import mssql from "mssql";
+
+
 const sql = require('mssql');
 
 const dbConfig = {
